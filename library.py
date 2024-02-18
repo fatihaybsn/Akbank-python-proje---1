@@ -64,8 +64,7 @@ while True:
     elif islem == "3":
         lib.remove_book()
     elif islem == "4":
-       lib.close_file()
-       break
+        break
     else:
        print("Lütfen geçerli bir işlem numarası giriniz")    
 lib.close_file()
