@@ -29,7 +29,3 @@ Bu proje, temel kütüphane yönetim işlevlerini gerçekleştiren bir Python uy
    ```bash
    python library.py
    ```
-
-## Katkıda Bulunma
-
-Katkılarınızı memnuniyetle karşılıyoruz. Lütfen değişiklik yapmadan önce bir tartışma başlatmak için bir konu açın.
