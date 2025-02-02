@@ -33,7 +33,3 @@ Bu proje, temel kütüphane yönetim işlevlerini gerçekleştiren bir Python uy
 ## Katkıda Bulunma
 
 Katkılarınızı memnuniyetle karşılıyoruz. Lütfen değişiklik yapmadan önce bir tartışma başlatmak için bir konu açın.
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz. 
